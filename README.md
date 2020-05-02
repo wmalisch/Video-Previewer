@@ -8,3 +8,5 @@ react-dom
 react-scripts
 
 UI: Semantic UI
+
+Created using npx create-react-app
