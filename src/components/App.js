@@ -4,7 +4,7 @@ import SearchBar from './SearchBar.js';
 import VideoList from './VideoList.js';
 import VideoDetail from './VideoDetail.js'
 
-const KEY = 'AIzaSyA2u7KClGpkP0Y0AaOof8bDPXEi7ZwR4R8'
+const KEY = 'YOUR KEY HERE'
 
 class App extends React.Component{
     constructor(props){
